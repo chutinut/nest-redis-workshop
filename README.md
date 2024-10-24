@@ -3,15 +3,14 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
   &nbsp;
-  <a href="https://redis.io/" target="blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="120" alt="MongoDB Logo" /></a>
+  <a href="https://www.mongodb.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="120" alt="MongoDB Logo" /></a>
   &nbsp;
   <a href="https://redis.io/" target="blank"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="120" alt="Redis Logo" /></a>
 </p>
 
 ## Description
 
-This project is my library for learning NestJS framework.
-
+This project is my library for learning NestJS framework.</br>
 This repository is a RestAPI example that works with MongoDB and Redis.
 
 ## Features
@@ -57,7 +56,9 @@ For everyone who interest in my workshop and want to use this repository to lear
 
 ## Resources
 
-NestJS - [Introduction](https://docs.nestjs.com/)
+NestJS - [Introduction](https://docs.nestjs.com/)</br>
+MongoDB - [Docs](https://www.mongodb.com/docs/atlas/)</br>
+Redis - [Docs](https://redis.io/docs/latest/)
 
 ## Blog
 
