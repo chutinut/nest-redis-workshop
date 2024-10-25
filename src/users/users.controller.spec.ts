@@ -34,10 +34,12 @@ describe('UsersController', () => {
     name: 'John Doe',
     email: 'john.d@example.com',
   };
+
   describe('create an user data', () => {
     it('should create a new user', async () => {
       const mockUser = { _id, ...userData };
       const mockResponse = { _id };
+
       mockUserService.create.mockResolvedValue(mockUser);
 
       const result = await controller.create(userData);

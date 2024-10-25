@@ -33,6 +33,7 @@ describe('UsersService', () => {
     name: 'John Doe',
     email: 'john.d@example.com',
   };
+
   describe('create an user data', () => {
     it('should create a new user', async () => {
       const mockUser = { _id, ...userData };
